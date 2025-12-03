@@ -31,7 +31,7 @@ alist.add("vidhu");
 out.println(alist);
 %>
 
-<%@ include file="welcome.jsp" %>
+<%@ include file="views/welcome.jsp" %>
 
 <%-- <jsp:include page="welcome.jsp" /> --%>
 
